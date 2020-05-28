@@ -1,5 +1,7 @@
 # StockPricePrediction-NEPSE-
-##LSTM based Stock Price and Trend Prediction (Dataset and Code)
+
+#LSTM based Stock Price and Trend Prediction (Dataset and Code).
+
 **This repository** consists of datasets and code for NEPSE-ADBL prediction task.
 -The dataset consist of three csv files: raw_news data, raw_stock data and final_stock data.
 
