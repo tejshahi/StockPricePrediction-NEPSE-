@@ -1,3 +1,4 @@
+# this modul import the dm_test package which is available at https://github.com/johntwk/Diebold-Mariano-Test
 
 from dm_test import dm_test
 import pandas as pd
