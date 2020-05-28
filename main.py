@@ -1,5 +1,5 @@
 
-#
+#import the necessary packages
 from pandas import read_csv
 import matplotlib.pyplot as plt
 import numpy as np
