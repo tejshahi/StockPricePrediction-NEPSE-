@@ -19,3 +19,6 @@
 -Annex Code
 
 -Main code
+
+## Citation: please cite the following paper if this repo (Data as well as code) is useful to your work
+Shahi, T.B.; Shrestha, A.; Neupane, A.; Guo, W. Stock Price Forecasting with Deep Learning: A Comparative Study. Mathematics 2020, 8, 1441.
