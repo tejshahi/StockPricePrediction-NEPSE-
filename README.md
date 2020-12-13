@@ -22,3 +22,14 @@
 
 ## Citation: please cite the following paper if this repo (Data as well as code) is useful to your work
 Shahi, T.B.; Shrestha, A.; Neupane, A.; Guo, W. Stock Price Forecasting with Deep Learning: A Comparative Study. Mathematics 2020, 8, 1441.
+# Bibtex
+@article{shahi2020stock,
+  title={Stock Price Forecasting with Deep Learning: A Comparative Study},
+  author={Shahi, Tej Bahadur and Shrestha, Ashish and Neupane, Arjun and Guo, William},
+  journal={Mathematics},
+  volume={8},
+  number={9},
+  pages={1441},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
